@@ -4,7 +4,7 @@ subtitle: by Afsto
 email: tichconsultants@gmail.com
 description: Welcome to Tich Consultants.<br /> I am your expert Victoria Falls consultant.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tichconsultants.github.io" # the base hostname & protocol for your site
+url: "https://asktich.github.io" # the base hostname & protocol for your site
 author: Afsto
 street_address: Sopers Arcade
 city: Victoria Falls
@@ -21,7 +21,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/tichconsultants
+  GitHub: https://github.com/asktich
   GitLab:
   Google-Plus: 
   Instagram:
