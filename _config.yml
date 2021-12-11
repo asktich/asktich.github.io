@@ -1,7 +1,7 @@
 # site settings
-title: Tich
+title: Ask Tich
 subtitle: by Afsto
-email: tichconsultants@gmail.com
+email: asktich@gmail.com
 description: Welcome to Tich Consultants.<br /> I am your expert Victoria Falls consultant.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://asktich.github.io" # the base hostname & protocol for your site
